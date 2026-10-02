@@ -1,0 +1,6 @@
+{
+  "name": "Hans Compain: Data-Driven Exam Prep & PYQ Engine",
+  "description": "Data-driven exam preparation and PYQ engine with high-yield weightage heatmaps, mock test simulator, auto mistake notebook, and offline study capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
