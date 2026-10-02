@@ -201,7 +201,7 @@ export const ProfileTab: React.FC = () => {
                 </div>
                 <div>
                   <h3 className="text-base font-bold text-slate-900">
-                    Hans Compain Admin Console
+                    Hans Credulous Admin Console
                   </h3>
                   <p className="text-xs text-slate-500">
                     Content Management & Syllabus Pipeline

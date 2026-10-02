@@ -31,7 +31,7 @@ export const TopBar: React.FC = () => {
             <span className="font-extrabold text-sm tracking-tight text-red-100">HC</span>
           </div>
           <span className="font-bold text-lg sm:text-xl tracking-tight text-white truncate">
-            Hans Compain
+            Hans Credulous
           </span>
         </div>
 

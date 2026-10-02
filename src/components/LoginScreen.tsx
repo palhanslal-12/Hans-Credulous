@@ -43,10 +43,10 @@ export const LoginScreen: React.FC = () => {
             </span>
           </div>
           <h1 className="text-3xl font-bold tracking-tight text-[#800000]">
-            Hans Compain
+            Hans Credulous
           </h1>
-          <p className="text-slate-500 text-sm mt-1">
-            Data-Driven Exam Prep & PYQ Engine
+          <p className="text-slate-500 text-xs sm:text-sm mt-1">
+            A data-driven educational platform designed for competitive exam preparation
           </p>
         </div>
 

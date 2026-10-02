@@ -23,10 +23,10 @@ export const SplashScreen: React.FC = () => {
         </div>
 
         <h1 className="text-3xl sm:text-4xl font-bold tracking-tight text-white mb-2">
-          Hans Compain
+          Hans Credulous
         </h1>
-        <p className="text-red-200 text-sm sm:text-base font-medium max-w-xs mb-8">
-          Data-Driven Exam Prep & PYQ Engine
+        <p className="text-red-200 text-xs sm:text-sm font-medium max-w-xs mb-8">
+          A data-driven educational platform designed for competitive exam preparation
         </p>
 
         {/* Loading indicator & skip button */}
